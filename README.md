@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I’m @mi-nh
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Kubernetes, GoLang
+- 🌱 I’m currently learning Terraform, GoLang
